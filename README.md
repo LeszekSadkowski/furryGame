@@ -4,8 +4,6 @@
 
 ### Gra "Furry zbiera monety"
 
-Celem tego ćwiczenia jest napisanie prostej gry w Javascript. W trakcie pracy nad tym zadaniem poznasz technikę
-programowania obiektowego i dowiesz się, dlaczego używanie obiektów, ich metod i właściwości ma sens. :-)
 
 Bohaterem naszej gry jest **Furry**, który porusza się po planszy o rozmiarach 10x10 pól.
 
